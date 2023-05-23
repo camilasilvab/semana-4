@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+
+  .header-section, .aboutMe, .projects-conteiner, footer {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+
+  .header-btns {
+    flex-direction: row;
+  }
+}
